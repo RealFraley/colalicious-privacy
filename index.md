@@ -1,8 +1,8 @@
-# Cocalicious Privacy Policy
+# Colalicious Privacy Policy
 
 _Effective: October 18, 2026_
 
-Cocalicious helps you find restaurants that serve Coke or Pepsi. This policy explains what information the app uses and why.
+Colalicious helps you find restaurants that serve Coke or Pepsi. This policy explains what information the app uses and why.
 
 ## Information we collect
 
@@ -28,7 +28,7 @@ Only to run the app: show nearby places, combine answers, display reviews, keep 
 ## Services we use
 
 - **Supabase** stores the app's data and handles sign-in.
-- **Google Maps** displays the map. When you use the map or add a restaurant, Google receives the map area or the location of the place you tapped. Google's use of that information is covered by the [Google Privacy Policy](https://policies.google.com/privacy).
+- **Google Maps** displays the map. When you use the map or add a restaurant, Google receives the map area or the location of the place you tapped. The Google Maps SDK also sends Google basic device information (model, OS version), crash reports from the map component, and a random map-specific identifier. Google's use of that information is covered by the [Google Privacy Policy](https://policies.google.com/privacy).
 - **OpenStreetMap** supplies the restaurant list. No information about you is sent to OpenStreetMap.
 
 ## Keeping and deleting your information
@@ -37,7 +37,7 @@ We keep your contributions while your account exists. To delete your account and
 
 ## Children
 
-Cocalicious is not directed at children under 13, and we do not knowingly collect information from them.
+Colalicious is not directed at children under 13, and we do not knowingly collect information from them.
 
 ## Changes
 
