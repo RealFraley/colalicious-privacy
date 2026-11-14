@@ -19,6 +19,8 @@ Colalicious helps you find restaurants that serve Coke or Pepsi. This policy exp
 - restaurants you add or suggest, and corrections you send
 - your display name, if you set one
 
+**On your phone only.** Your drink choice (Coke, Pepsi or both) is saved on your device and is not sent to us.
+
 Reviews and display names are shown to other users. Answers and suggestions are combined with other users' to show what a place serves; they are not shown with your name.
 
 ## How we use information
