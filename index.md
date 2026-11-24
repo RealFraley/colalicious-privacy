@@ -1,8 +1,8 @@
-# Colalicious Privacy Policy
+# Soda Scout Privacy Policy
 
 _Effective: October 18, 2026_
 
-Colalicious helps you find restaurants that serve Coke or Pepsi. This policy explains what information the app uses and why.
+Soda Scout helps you find restaurants that serve Coke or Pepsi. This policy explains what information the app uses and why.
 
 ## Information we collect
 
@@ -35,11 +35,11 @@ Only to run the app: show nearby places, combine answers, display reviews, keep 
 
 ## Keeping and deleting your information
 
-We keep your contributions while your account exists. To delete your account and everything linked to it, email us at [colacudas@gmail.com](mailto:colacudas@gmail.com) from the address you signed in with, and we will delete it within 30 days. If you never signed in, your anonymous account is not linked to any personal details; contact us and we will help remove what you can identify, such as your reviews. Restaurants you added stay in the app, without any link to you.
+We keep your contributions while your account exists. To delete your account and everything linked to it, email us at [sodascoutapp@gmail.com](mailto:sodascoutapp@gmail.com) from the address you signed in with, and we will delete it within 30 days. If you never signed in, your anonymous account is not linked to any personal details; contact us and we will help remove what you can identify, such as your reviews. Restaurants you added stay in the app, without any link to you.
 
 ## Children
 
-Colalicious is not directed at children under 13, and we do not knowingly collect information from them.
+Soda Scout is not directed at children under 13, and we do not knowingly collect information from them.
 
 ## Changes
 
@@ -47,4 +47,4 @@ If this policy changes, we will update the date above and, for significant chang
 
 ## Contact
 
-Questions: [colacudas@gmail.com](mailto:colacudas@gmail.com)
+Questions: [colacudas@gmail.com](mailto:sodascoutapp@gmail.com)
