@@ -47,4 +47,4 @@ If this policy changes, we will update the date above and, for significant chang
 
 ## Contact
 
-Questions: [colacudas@gmail.com](mailto:sodascoutapp@gmail.com)
+Questions: [sodascoutap@gmail.com](mailto:sodascoutapp@gmail.com)
